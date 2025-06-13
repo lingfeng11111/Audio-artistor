@@ -8,7 +8,7 @@
 - 🌊 动态背景波浪效果
 - 💎 现代毛玻璃UI界面
 
-![Audio Artistor Screenshot](https://github.com/lingfeng11111/Audio-artistor/raw/main/public/screenshot.png)
+![Audio Artistor Screenshot](screenshot.png)
 
 ## 🔧 技术栈
 
